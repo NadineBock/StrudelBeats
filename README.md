@@ -13,6 +13,4 @@ So startest du:
 - Code einfügen und Play drücken. 
 - Mit cpm, gain oder lpf experimentieren. 
 
-Feedback oder eigene Ideen? Schreib mir! Als IT-Azubi liebe ich sowas neben Lernen und Familie.
-
 Viel Spaß beim erstellen algorithmischer Musik :)
